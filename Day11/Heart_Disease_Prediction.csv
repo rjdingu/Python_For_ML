@@ -1,0 +1,271 @@
+,Age,Sex,BP,Cholesterol,Heart Disease,BP Level,Cholestrol Level
+0,70,Male,130,322,Presence,Moderate,Risk
+146,52,Male,112,230,Presence,No Risk,Cautious
+130,63,Female,108,269,Presence,No Risk,Risk
+131,66,Male,112,212,Presence,No Risk,Cautious
+133,64,Male,120,246,Presence,No Risk,Cautious
+137,56,Male,125,249,Presence,Moderate,Cautious
+140,64,Male,145,212,Presence,Moderate,Cautious
+142,50,Male,140,233,Presence,Moderate,Cautious
+144,54,Male,192,283,Presence,High BP,Risk
+145,53,Male,123,282,Presence,Moderate,Risk
+147,40,Male,110,167,Presence,No Risk,Normal
+89,50,Male,150,243,Presence,Moderate,Cautious
+148,58,Male,132,224,Presence,Moderate,Cautious
+156,55,Male,140,217,Presence,Moderate,Cautious
+159,66,Female,178,228,Presence,High BP,Cautious
+160,38,Male,120,231,Presence,No Risk,Cautious
+161,62,Female,150,244,Presence,Moderate,Cautious
+163,58,Male,128,259,Presence,Moderate,Risk
+169,65,Male,138,282,Presence,Moderate,Risk
+171,69,Male,140,254,Presence,Moderate,Risk
+129,60,Male,117,230,Presence,No Risk,Cautious
+126,62,Male,120,267,Presence,No Risk,Risk
+122,57,Male,152,274,Presence,High BP,Risk
+121,54,Male,122,286,Presence,Moderate,Risk
+92,54,Male,124,266,Presence,Moderate,Risk
+93,54,Male,110,206,Presence,No Risk,Cautious
+94,52,Male,125,212,Presence,Moderate,Cautious
+95,47,Male,110,275,Presence,No Risk,Risk
+97,58,Male,100,234,Presence,No Risk,Cautious
+101,67,Male,120,237,Presence,No Risk,Cautious
+103,57,Male,165,289,Presence,High BP,Risk
+104,63,Male,130,254,Presence,Moderate,Risk
+105,48,Male,124,274,Presence,Moderate,Risk
+107,60,Female,150,258,Presence,Moderate,Risk
+108,59,Male,140,177,Presence,Moderate,Normal
+110,55,Female,180,327,Presence,High BP,Risk
+112,60,Female,158,305,Presence,High BP,Risk
+116,46,Male,120,249,Presence,No Risk,Cautious
+117,56,Female,200,288,Presence,High BP,Risk
+119,56,Male,130,283,Presence,Moderate,Risk
+120,49,Male,120,188,Presence,No Risk,Normal
+172,67,Male,100,299,Presence,No Risk,Risk
+175,62,Female,138,294,Presence,Moderate,Risk
+176,51,Male,140,298,Presence,Moderate,Risk
+227,43,Female,132,341,Presence,Moderate,Risk
+231,39,Male,118,219,Presence,No Risk,Cautious
+233,52,Male,128,255,Presence,Moderate,Risk
+235,62,Female,160,164,Presence,High BP,Normal
+237,43,Male,120,177,Presence,No Risk,Normal
+240,68,Male,180,274,Presence,High BP,Risk
+243,62,Female,140,268,Presence,Moderate,Risk
+245,60,Male,130,253,Presence,Moderate,Risk
+246,65,Male,110,248,Presence,No Risk,Cautious
+248,60,Male,140,185,Presence,Moderate,Normal
+249,60,Male,145,282,Presence,Moderate,Risk
+250,54,Male,120,188,Presence,No Risk,Normal
+252,44,Male,112,290,Presence,No Risk,Risk
+257,55,Male,132,353,Presence,Moderate,Risk
+258,64,Male,140,335,Presence,Moderate,Risk
+261,60,Male,130,206,Presence,Moderate,Cautious
+262,58,Male,120,284,Presence,No Risk,Risk
+264,48,Male,110,229,Presence,No Risk,Cautious
+230,61,Female,145,307,Presence,Moderate,Risk
+226,62,Female,130,263,Presence,Moderate,Risk
+177,46,Male,150,231,Presence,Moderate,Cautious
+223,63,Male,130,330,Presence,Moderate,Risk
+178,67,Male,125,254,Presence,Moderate,Risk
+181,56,Female,134,409,Presence,Moderate,Risk
+182,41,Male,110,172,Presence,No Risk,Normal
+186,56,Male,132,184,Presence,Moderate,Normal
+189,70,Male,160,269,Presence,High BP,Risk
+191,70,Male,145,174,Presence,Moderate,Normal
+193,35,Male,126,282,Presence,Moderate,Risk
+199,77,Male,125,304,Presence,Moderate,Risk
+201,58,Male,125,300,Presence,Moderate,Risk
+202,60,Male,125,258,Presence,Moderate,Risk
+203,51,Male,140,299,Presence,Moderate,Risk
+204,55,Male,160,289,Presence,High BP,Risk
+208,64,Male,125,309,Presence,Moderate,Risk
+210,59,Male,170,288,Presence,High BP,Risk
+213,58,Male,128,216,Presence,Moderate,Cautious
+220,54,Male,110,239,Presence,No Risk,Cautious
+221,65,Male,135,254,Presence,Moderate,Risk
+91,61,Female,130,330,Presence,Moderate,Risk
+269,67,Male,160,286,Presence,High BP,Risk
+40,40,Male,152,223,Presence,High BP,Cautious
+50,42,Male,136,315,Presence,Moderate,Risk
+13,61,Male,134,234,Presence,Moderate,Cautious
+67,58,Female,136,319,Presence,Moderate,Risk
+65,57,Male,150,276,Presence,Moderate,Risk
+16,46,Male,140,311,Presence,Moderate,Risk
+61,51,Female,130,305,Presence,Moderate,Risk
+17,53,Male,140,203,Presence,Moderate,Cautious
+59,62,Male,120,281,Presence,No Risk,Risk
+58,59,Female,174,249,Presence,High BP,Cautious
+20,67,Male,120,229,Presence,No Risk,Cautious
+56,61,Male,138,166,Presence,Moderate,Normal
+49,65,Female,150,225,Presence,Moderate,Cautious
+70,61,Male,120,260,Presence,No Risk,Risk
+48,66,Male,160,246,Presence,High BP,Cautious
+47,44,Male,110,197,Presence,No Risk,Normal
+46,49,Male,118,149,Presence,No Risk,Normal
+28,58,Male,112,230,Presence,No Risk,Cautious
+30,57,Male,128,229,Presence,Moderate,Cautious
+44,59,Male,126,218,Presence,Moderate,Cautious
+33,59,Male,170,326,Presence,High BP,Risk
+37,59,Male,160,273,Presence,High BP,Risk
+34,50,Male,144,200,Presence,Moderate,Normal
+35,48,Male,130,256,Presence,Moderate,Risk
+69,47,Male,108,243,Presence,No Risk,Cautious
+36,61,Male,140,207,Presence,Moderate,Cautious
+82,58,Male,150,270,Presence,Moderate,Risk
+9,63,Female,150,407,Presence,Moderate,Risk
+75,45,Male,142,309,Presence,Moderate,Risk
+8,60,Male,140,293,Presence,Moderate,Risk
+2,57,Male,124,261,Presence,Moderate,Risk
+7,59,Male,110,239,Presence,No Risk,Cautious
+6,56,Male,130,256,Presence,Moderate,Risk
+81,35,Male,120,198,Presence,No Risk,Normal
+80,58,Male,146,218,Presence,Moderate,Cautious
+209,37,Male,130,250,Absence,Moderate,Risk
+206,60,Female,102,318,Absence,No Risk,Risk
+207,58,Male,105,240,Absence,No Risk,Cautious
+27,51,Female,120,295,Absence,No Risk,Risk
+3,64,Male,128,263,Absence,Moderate,Risk
+263,49,Male,130,266,Absence,Moderate,Risk
+4,74,Female,120,269,Absence,No Risk,Risk
+26,46,Female,138,243,Absence,Moderate,Cautious
+211,51,Male,125,245,Absence,Moderate,Cautious
+260,58,Female,120,340,Absence,No Risk,Risk
+212,43,Female,122,213,Absence,Moderate,Cautious
+25,48,Female,130,275,Absence,Moderate,Risk
+205,52,Male,152,298,Absence,High BP,Risk
+10,59,Male,135,234,Absence,Moderate,Cautious
+29,71,Female,110,265,Absence,No Risk,Risk
+194,48,Male,124,255,Absence,Moderate,Risk
+268,57,Male,140,192,Absence,Moderate,Normal
+190,54,Male,140,239,Absence,Moderate,Cautious
+267,56,Female,140,294,Absence,Moderate,Risk
+266,44,Male,120,263,Absence,No Risk,Risk
+192,54,Male,108,309,Absence,No Risk,Risk
+265,52,Male,172,199,Absence,High BP,Normal
+195,55,Female,135,250,Absence,Moderate,Risk
+215,41,Female,130,204,Absence,Moderate,Cautious
+196,58,Female,100,248,Absence,No Risk,Cautious
+197,54,Female,110,214,Absence,No Risk,Cautious
+198,69,Female,140,239,Absence,Moderate,Cautious
+32,37,Female,120,215,Absence,No Risk,Cautious
+200,68,Male,118,277,Absence,No Risk,Risk
+31,66,Male,160,228,Absence,High BP,Cautious
+214,29,Male,130,204,Absence,Moderate,Cautious
+218,54,Male,120,258,Absence,No Risk,Risk
+216,63,Female,135,252,Absence,Moderate,Risk
+241,39,Male,140,321,Absence,Moderate,Risk
+254,59,Male,150,212,Absence,Moderate,Cautious
+236,53,Female,138,234,Absence,Moderate,Cautious
+15,71,Female,112,149,Absence,No Risk,Normal
+238,47,Male,138,257,Absence,Moderate,Risk
+239,52,Male,120,325,Absence,No Risk,Risk
+14,57,Female,128,303,Absence,Moderate,Risk
+253,51,Male,110,175,Absence,No Risk,Normal
+255,71,Female,160,302,Absence,High BP,Risk
+242,53,Female,130,264,Absence,Moderate,Risk
+251,44,Male,130,219,Absence,Moderate,Cautious
+244,51,Female,140,308,Absence,Moderate,Risk
+12,44,Male,140,235,Absence,Moderate,Cautious
+11,53,Male,142,226,Absence,Moderate,Cautious
+247,65,Female,155,269,Absence,High BP,Risk
+234,62,Male,130,231,Absence,Moderate,Cautious
+232,45,Male,115,260,Absence,No Risk,Risk
+217,51,Male,94,227,Absence,No Risk,Cautious
+259,43,Male,150,247,Absence,Moderate,Cautious
+219,44,Male,120,220,Absence,No Risk,Cautious
+24,54,Female,132,288,Absence,Moderate,Risk
+23,47,Male,112,204,Absence,No Risk,Cautious
+222,57,Male,150,168,Absence,Moderate,Normal
+22,43,Male,115,303,Absence,No Risk,Risk
+224,35,Female,138,183,Absence,Moderate,Normal
+225,41,Male,135,203,Absence,Moderate,Cautious
+256,61,Male,150,243,Absence,Moderate,Cautious
+21,48,Male,130,245,Absence,Moderate,Cautious
+5,65,Male,120,177,Absence,No Risk,Normal
+228,58,Female,150,283,Absence,Moderate,Risk
+188,62,Female,140,394,Absence,Moderate,Risk
+19,40,Male,140,199,Absence,Moderate,Normal
+18,64,Male,110,211,Absence,No Risk,Cautious
+229,52,Male,118,186,Absence,No Risk,Normal
+85,42,Male,148,244,Absence,Moderate,Cautious
+187,52,Male,108,233,Absence,No Risk,Cautious
+71,57,Female,120,354,Absence,No Risk,Risk
+113,54,Female,135,304,Absence,Moderate,Risk
+114,42,Male,120,295,Absence,No Risk,Risk
+115,49,Female,134,271,Absence,Moderate,Risk
+68,44,Female,118,242,Absence,No Risk,Cautious
+118,66,Female,150,226,Absence,Moderate,Cautious
+66,51,Male,140,261,Absence,Moderate,Risk
+64,63,Male,145,233,Absence,Moderate,Cautious
+123,65,Female,160,360,Absence,High BP,Risk
+124,54,Male,125,273,Absence,Moderate,Risk
+125,54,Female,160,201,Absence,High BP,Cautious
+63,60,Female,150,240,Absence,Moderate,Cautious
+127,52,Female,136,196,Absence,Moderate,Normal
+128,52,Male,134,201,Absence,Moderate,Cautious
+62,44,Male,120,226,Absence,No Risk,Cautious
+60,57,Male,150,126,Absence,Moderate,Normal
+132,42,Male,140,226,Absence,Moderate,Cautious
+134,54,Male,150,232,Absence,Moderate,Cautious
+111,41,Male,110,235,Absence,No Risk,Cautious
+109,45,Female,112,160,Absence,No Risk,Normal
+185,43,Male,130,315,Absence,Moderate,Risk
+72,70,Male,156,245,Absence,High BP,Cautious
+87,59,Male,178,270,Absence,High BP,Risk
+88,41,Female,126,306,Absence,Moderate,Risk
+84,57,Male,110,201,Absence,No Risk,Cautious
+90,59,Male,140,221,Absence,Moderate,Cautious
+83,41,Male,130,214,Absence,Moderate,Cautious
+79,56,Male,120,236,Absence,No Risk,Cautious
+96,66,Male,120,302,Absence,No Risk,Risk
+78,42,Female,120,209,Absence,No Risk,Cautious
+98,64,Female,140,313,Absence,Moderate,Risk
+99,50,Female,120,244,Absence,No Risk,Cautious
+100,44,Female,108,141,Absence,No Risk,Normal
+77,39,Female,94,199,Absence,No Risk,Normal
+102,49,Female,130,269,Absence,Moderate,Risk
+76,45,Male,104,208,Absence,No Risk,Cautious
+74,67,Female,106,223,Absence,No Risk,Cautious
+106,51,Male,100,222,Absence,No Risk,Cautious
+73,76,Female,140,197,Absence,Moderate,Normal
+1,67,Female,115,564,Absence,No Risk,Risk
+136,67,Female,152,277,Absence,High BP,Risk
+138,34,Female,118,210,Absence,No Risk,Cautious
+139,57,Male,132,207,Absence,Moderate,Cautious
+166,50,Female,110,254,Absence,No Risk,Risk
+167,53,Male,130,197,Absence,Moderate,Normal
+168,45,Female,138,236,Absence,Moderate,Cautious
+45,58,Male,140,211,Absence,Moderate,Cautious
+170,69,Male,160,234,Absence,High BP,Cautious
+43,46,Male,101,197,Absence,No Risk,Normal
+173,68,Female,120,211,Absence,No Risk,Cautious
+174,34,Male,118,182,Absence,No Risk,Normal
+42,44,Male,130,233,Absence,Moderate,Cautious
+41,62,Female,124,209,Absence,Moderate,Cautious
+86,62,Male,128,208,Absence,Moderate,Cautious
+39,48,Male,122,222,Absence,Moderate,Cautious
+179,50,Male,129,196,Absence,Moderate,Normal
+180,42,Male,120,240,Absence,No Risk,Cautious
+38,42,Male,130,180,Absence,Moderate,Normal
+183,42,Female,102,265,Absence,No Risk,Risk
+184,53,Male,130,246,Absence,Moderate,Cautious
+165,64,Female,180,325,Absence,High BP,Risk
+164,43,Male,110,211,Absence,No Risk,Cautious
+162,55,Male,130,262,Absence,Moderate,Risk
+51,52,Male,128,205,Absence,Moderate,Cautious
+57,60,Female,120,178,Absence,No Risk,Normal
+141,59,Male,138,271,Absence,Moderate,Risk
+143,51,Male,125,213,Absence,Moderate,Cautious
+55,41,Female,105,198,Absence,No Risk,Normal
+54,45,Female,130,234,Absence,Moderate,Cautious
+53,63,Female,140,195,Absence,Moderate,Normal
+52,65,Female,140,417,Absence,Moderate,Risk
+149,41,Female,112,268,Absence,No Risk,Risk
+158,56,Male,120,193,Absence,No Risk,Normal
+150,41,Male,112,250,Absence,No Risk,Risk
+151,50,Female,120,219,Absence,No Risk,Cautious
+152,54,Female,108,267,Absence,No Risk,Risk
+153,64,Female,130,303,Absence,Moderate,Risk
+154,51,Female,130,256,Absence,Moderate,Risk
+155,46,Female,105,204,Absence,No Risk,Cautious
+157,45,Male,128,308,Absence,Moderate,Risk
+135,46,Female,142,177,Absence,Moderate,Normal
